@@ -1,0 +1,4 @@
+# Define que o Git sempre converterá delimitadores de linha em LF
+*.txt eol=lf
+*.md eol=lf
+*.py eol=lf
